@@ -1,0 +1,10 @@
+C:\Users\Hi\source\repos\bai kiem tra 16-12\bai kiem tra 16-12\bin\Debug\bai kiem tra 16-12.exe.config
+C:\Users\Hi\source\repos\bai kiem tra 16-12\bai kiem tra 16-12\bin\Debug\bai kiem tra 16-12.exe
+C:\Users\Hi\source\repos\bai kiem tra 16-12\bai kiem tra 16-12\bin\Debug\bai kiem tra 16-12.pdb
+C:\Users\Hi\source\repos\bai kiem tra 16-12\bai kiem tra 16-12\obj\Debug\bai kiem tra 16-12.csproj.AssemblyReference.cache
+C:\Users\Hi\source\repos\bai kiem tra 16-12\bai kiem tra 16-12\obj\Debug\bai_kiem_tra_16_12.Form1.resources
+C:\Users\Hi\source\repos\bai kiem tra 16-12\bai kiem tra 16-12\obj\Debug\bai_kiem_tra_16_12.Properties.Resources.resources
+C:\Users\Hi\source\repos\bai kiem tra 16-12\bai kiem tra 16-12\obj\Debug\bai kiem tra 16-12.csproj.GenerateResource.cache
+C:\Users\Hi\source\repos\bai kiem tra 16-12\bai kiem tra 16-12\obj\Debug\bai kiem tra 16-12.csproj.CoreCompileInputs.cache
+C:\Users\Hi\source\repos\bai kiem tra 16-12\bai kiem tra 16-12\obj\Debug\bai kiem tra 16-12.exe
+C:\Users\Hi\source\repos\bai kiem tra 16-12\bai kiem tra 16-12\obj\Debug\bai kiem tra 16-12.pdb
